@@ -2,3 +2,5 @@ This is a new file.
 I have again edited ex.txt
 So this is a best place to continue.
 This updated from feature branch.
+I have updated from feature_A.
+

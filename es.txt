@@ -4,4 +4,4 @@ So this is a best place to continue.
 This updated from feature branch.
 I have updated from feature_A.
 This I have edited from feature branch.
-
+I have updated this text after the v1 release.
